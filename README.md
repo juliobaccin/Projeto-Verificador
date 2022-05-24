@@ -7,7 +7,7 @@ Projeto - Idade
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-JavaScript-Tempo/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-DetectordeIdade/">aqui</a>
 </p>
 
 <div align="center">
