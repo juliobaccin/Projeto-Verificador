@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Projeto - Idade
+Projeto - Detector de Idade
 </h1>
  
  <p align="center">
@@ -12,14 +12,19 @@ Projeto - Idade
 
 <div align="center">
 <h3> 
- Apresentação
+ Masculino
 </h3>
-<img src="">
+<img src="https://github.com/juliobaccin/Projeto-Detector-Idade/blob/main/masculino.gif">
 
+ <div align="center">
+<h3> 
+ Feminino
+</h3>
+<img src="https://github.com/juliobaccin/Projeto-Detector-Idade/blob/main/feminino.gif">
  
  <h3>
   Responsividade
  </h3> 
-<img src="f">
+<img src="https://github.com/juliobaccin/Projeto-Detector-Idade/blob/main/responsividade.gif">
 </div>
  
