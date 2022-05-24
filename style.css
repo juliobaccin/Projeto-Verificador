@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+    background: #025e73d0;
+    font: normal 15pt arial;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+header {
+    color: white;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.753);
+    text-align: start;
+}
+
+
+#res {
+    padding: 10px 0;
+}
+
+img#foto{
+    padding-top: 10px;
+    transition: .3s;
+}
+
+img#foto:hover{
+    transform: translateY(-10px);
+}
+
+footer {
+    color: white;
+}
+
+@media(max-width:500px){
+    section{
+        width: 100%;
+    }
+}
