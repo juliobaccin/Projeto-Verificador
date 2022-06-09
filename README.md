@@ -7,7 +7,7 @@ Projeto - Detector de Idade
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Detector-Idade/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-DetectorIdade/">aqui</a>
 </p>
 
 <div align="center">
