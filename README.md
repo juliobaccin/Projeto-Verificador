@@ -7,7 +7,7 @@ Projeto - Verificador de Idade
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Detector/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Verificador/">aqui</a>
 </p>
 
 <div align="center">
