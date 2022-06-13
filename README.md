@@ -3,7 +3,7 @@ Projeto - Verificador de Idade
 </h1>
  
  <p align="center">
- Website em <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> que verifica a idade do usuário conforme a data de nascimento colocada no input, temos 4 tipos de variações de idade para ambos sexos. Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
+ Website em <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> que verifica a idade e o genêro do usuário conforme a data de nascimento e o genêro informado, temos 4 tipos de variações de idade para ambos genêros. Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
  </p>
 
 <p align="center">
